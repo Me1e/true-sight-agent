@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>이 앱은 음성 명령을 인식하여 객체 찾기 기능을 제공합니다.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>이 앱은 음성 입력과 AI 대화를 위해 마이크 접근이 필요합니다.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>이 앱은 AR 환경 분석과 객체 탐지를 위해 카메라 접근이 필요합니다.</string>
+</dict>
+</plist>
